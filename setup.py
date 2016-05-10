@@ -15,7 +15,7 @@ setup(name="smpplib2",
         'Operating System :: OS Independent',
         'Programming Language :: Python',
         'Programming Language :: Python :: 2.7',
-        'License :: MIT License',
+        'License :: OSI Approved :: MIT License',
         ],
       **extra
 )
