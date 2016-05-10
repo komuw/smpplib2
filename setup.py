@@ -6,7 +6,7 @@ if sys.version_info >= (3,):
     extra['use_2to3'] = True
 
 setup(name="smpplib2",
-      version='0.1',
+      version='0.1.0',
       url='https://github.com/komuW/smpplib2',
       description='SMPP library for python',
       packages=find_packages(),
