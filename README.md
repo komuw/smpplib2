@@ -75,4 +75,6 @@ import mymodule
 generator = mymodule.PersistentSequenceGenerator()
 client = smpplib2.client.Client('example.com', SOMEPORTNUMBER, sequence_generator=generator)
 ...
-```
+```               
+
+An example with client(ESME) and server(SMSC) can be found in /example directory
